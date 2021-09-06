@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+    margin: 10px;
+    font-weight: bold;
+    background-color: beige;
+}
+
+.pd-20{
+    padding: 20px;
+}
+
+.bg-color{
+    background-color: blue;
+}
